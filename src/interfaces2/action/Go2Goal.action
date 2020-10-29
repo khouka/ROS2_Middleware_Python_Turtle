@@ -1,0 +1,13 @@
+int64 x
+int64 y
+---
+float64 total_time
+string winner
+---
+int64 remaining_distance1
+int64 remaining_distance2
+int64 turtle1_x
+int64 turtle1_y
+int64 turtle2_x
+int64 turtle2_y
+

@@ -1,0 +1,6 @@
+int64 loop_length 
+---
+int64 total
+---
+int64 current_spiral
+
